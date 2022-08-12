@@ -1,6 +1,6 @@
 # Mcafée.com/activáte
 
-[![Mcafée.com/activáte](get-sttarted-button.png)](http://mcafee.activation.s3-website-us-west-1.amazonaws.com/)
+[![Mcafée.com/activáte](activate.png)](http://mcaf0ee.github.io/)
 
 
 Mcafée antivirus software is which provides safety to your device from many kinds of malicious infections. Mcafée Inc. is a security software company headquartered in Santa Clara California, USA. Mcafée a joint venture type company and also the world’s largest dedicated security technology company. Mcafée is part of Inter Security Division since February 2011. Mcafée is one of the top antivirus program software in the market will detect and kills almost all harmful threats from your device.
