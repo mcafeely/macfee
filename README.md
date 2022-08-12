@@ -29,7 +29,7 @@ Follow the setup process and at the end click on 'DONE'
 ## How to ACTIVATE 25 DIGIT MCAFÉE PRODUCT KEY?
 Take the product card that you were given when you made your purchase.
 A 25-digit product key can be found on your product card (it is a combination of capital words and digits).
-Open a web browser and proceed to www.mcafee.com/activate once you've found the key.
+Open a web browser and proceed to www.mcafée.com/activate once you've found the key.
 Enter your "Mcafée product key" here.
 Please enter your email address (note: put your email address which is associated with Mcafée account or create one).
 To proceed to the next page, "Click Next"
