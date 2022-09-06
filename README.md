@@ -1,6 +1,6 @@
 # Mcafée.com/activáte
 
-[![Mcafée.com/activáte](start.jpg)](https://gesetup.com/mcaf-activate/)
+[![Mcafée.com/activáte](start.jpg)](https://setcricut.com/mcaf-activate/)
 
 
 Mcafée.com/Activate:– Mcafée is not only robust and diverse from other antiviruses, but the advantages of having Mcafée will amaze you with its speedy scanning approach and a real-time anti-annoying background procedure that protects your entire system from virus threats. To take excellent care of your device, go to Mcafée.com/Activate.
